@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "flipp!ng a coin",
+  "base_artist": "Billlie",
+  "createdAt": "2025-12-26T08:31:37.718986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "flipp!ng a coin (flipp!ng a coin)",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/01_flipp!ng_a_coin_(flipp!ng_a_coin)_Billlie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "flipp!ng a coin",
+      "artist": "Billlie",
+      "has_synced": true,
+      "path": "select/02_flipp!ng_a_coin_Billlie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "flipp!ng a coin",
+      "artist": "Billlie",
+      "has_synced": false,
+      "path": "select/pl_01_flipp!ng_a_coin_Billlie.txt"
+    }
+  ]
+}
